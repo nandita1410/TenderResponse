@@ -1,0 +1,11 @@
+# master.yml
+
+working_directory: "C:/Users/Nandita/OneDrive/Desktop/TenderResponse_Latest"
+tender_documents_folder: "C:/Users/Nandita/OneDrive/Desktop/TenderResponse_Latest/Tender Documents"
+company_documents_folder: "C:/Users/Nandita/OneDrive/Desktop/TenderResponse_Latest/Company Documents"
+output_folder: "C:/Users/Nandita/OneDrive/Desktop/TenderResponse_Latest/Outputs"
+database:
+  host: "localhost"
+  user: "root"
+  password: "root"
+  name: "tender_generation"
