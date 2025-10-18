@@ -1,0 +1,14 @@
+streamlit
+pandas
+mysql-connector-python
+pymysql
+fitz
+python-docx
+openpyxl
+PyMuPDF
+langchain
+langchain-google-genai
+google-generativeai
+numpy
+pypdf
+joblib
