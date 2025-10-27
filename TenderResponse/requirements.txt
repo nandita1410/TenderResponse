@@ -1,9 +1,10 @@
 streamlit
 pandas
-SQLAlchemy
-mysqlclient
-openpyxl
+mysql-connector-python
+pymysql
+fitz
 python-docx
+openpyxl
 PyMuPDF
 langchain
 langchain-google-genai
